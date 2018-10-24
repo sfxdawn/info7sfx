@@ -5,6 +5,7 @@
       <w>levelname</w>
       <w>lineno</w>
       <w>qiniu</w>
+      <w>tablename</w>
     </words>
   </dictionary>
 </component>
